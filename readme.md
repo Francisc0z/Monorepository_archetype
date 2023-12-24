@@ -1,0 +1,1 @@
+Proyecto mono repositorio utilizando (React + Vitejs), NestJs y TurboRepo, preconfigurado para buildeo, uso en dev y instalacion.
